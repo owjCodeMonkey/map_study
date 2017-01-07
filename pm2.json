@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "E:Githubmap_studyE:Githubmap_studynode_thinkjs",
+    "script": "www/production.js",
+    "cwd": "E:\Github\map_study\node_thinkjs",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}

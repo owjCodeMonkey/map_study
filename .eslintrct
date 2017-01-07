@@ -1,0 +1,1 @@
+{    "parserOptions": {        "ecmaVersion": es2015-loose,        "sourceType": "module",        "ecmaFeatures": {            "jsx": true        },    },    "rules": {        "semi": 2    }}
